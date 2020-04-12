@@ -20,6 +20,10 @@ Mainflux is member of the [Linux Foundation][lf] and an active contributor
 to the [EdgeX Foundry][edgex] project. It has been made with :heart: by [Mainflux Labs][company],
 which maintains the project and offers professional services around it.
 
+```bash
+git clone https://github.com/itinq/mainflux.git --config core.autocrlf=input
+```
+
 ## Features
 
 - Multi-protocol connectivity and bridging (HTTP, MQTT, WebSocket and CoAP)

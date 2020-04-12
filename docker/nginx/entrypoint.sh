@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if [ -z "$MF_MQTT_CLUSTER" ]
 then
